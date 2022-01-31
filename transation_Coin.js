@@ -155,6 +155,7 @@ lutoCoin.addTransaction(t1)
 lutoCoin.addTransaction(t2)
 console.log(lutoCoin)
 
+//挖礦動作
 lutoCoin.mineTransactionPool('addr3')
 console.log(lutoCoin)
 console.log(lutoCoin.chain[1])
