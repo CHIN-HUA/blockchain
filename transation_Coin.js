@@ -1,5 +1,6 @@
 //BLOCK CHAIN
 //這個版本設置轉帳功能
+//發幣功能
 const sha256 = require('crypto-js/sha256')
 
 //轉帳功能
