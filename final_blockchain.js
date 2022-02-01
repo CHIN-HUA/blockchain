@@ -2,6 +2,7 @@
 //這個版本設置轉帳功能
 //發幣功能
 //新增加密簽名功能
+//簡易完整版
 
 //加解密lib
 const ecLib = require("elliptic").ec;
