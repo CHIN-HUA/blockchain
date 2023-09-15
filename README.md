@@ -5,3 +5,5 @@ https://bitcoin.org/bitcoin.pdf
 實現挖礦獎勵
 交易
 加解密等功能
+
+參考: https://github.com/ycraaron/luotuocoin
